@@ -5,7 +5,7 @@
 -  Media Queries<br>
 -  Mobile First<br>
 
-<h3>Common Device Breakpoints</h3><br>
+<h3>Common Device Breakpoints</h3>
 
 Telas Pequenas: até 600px<br>
 Celular: 600x até 768px<br>
